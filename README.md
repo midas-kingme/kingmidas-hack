@@ -8,12 +8,19 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/midasoden/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2j4BmwxVQ56QiGI2ox6yfO)
 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="32" height="32">
+</picture>
 
-**Wassup, World!** 👋🏾 **I'm Midas**, a soon-to-be Computer Science graduate with a passion for using technology to solve problems, build cool stuff, and make life better for everyone. I'm a results-oriented, resourceful IT professional with experience in technical support, network troubleshooting, and software development.
+Welcome!
+
+ I'm **Midas**, a soon-to-be Computer Science graduate with a passion for using technology to solve problems, build cool stuff, and make life better for everyone. I'm a results-oriented, resourceful IT professional with experience in technical support, network troubleshooting, and software development.
 
 When I’m not studying, I’m outside exploring, reading, or dabbling in art and music. Feel free to reach out by shooting over a personal msg @`midasoden@pm.me` if you'd like to chat, get to know me, or discuss the possibility of building something dope! ツ
 
-**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+---
+<br> 
 
 ## 🛠️ Areas of Expertise
 - **IT Operations & Troubleshooting**: Network diagnostics, help desk systems, incident management.
