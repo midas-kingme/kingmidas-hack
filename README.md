@@ -7,15 +7,13 @@
 [![Visits Badge](https://badges.pufler.dev/visits/KiNGxMiDAS/KiNGxMiDAS)](https://github.com/kingmidas-hack)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/midasoden/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2j4BmwxVQ56QiGI2ox6yfO)
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KiNGxMiDAS) 
 
-
-<a href="[https://open.spotify.com/playlist/3ifpAaYdy3ajBhyQ2ZX60b](https://open.spotify.com/playlist/2j4BmwxVQ56QiGI2ox6yfO)">
-  <img align="left" alt="Midas' Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" /> -->
 
 **Wassup, World!** 👋🏾 **I'm Midas**, a soon-to-be Computer Science graduate with a passion for using technology to solve problems, build cool stuff, and make life better for everyone. I'm a results-oriented, resourceful IT professional with experience in technical support, network troubleshooting, and software development.
 
-When I’m not studying, I’m outside exploring, reading, or dabbling in art and music. Feel free to reach out by shooting over a personal msg { midasoden@pm.me } if you'd like to chat, get to know, or discuss the possibility for building something dope! ツ
+When I’m not studying, I’m outside exploring, reading, or dabbling in art and music. Feel free to reach out by shooting over a personal msg @`midasoden@pm.me` if you'd like to chat, get to know me, or discuss the possibility of building something dope! ツ
+
+**--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ## 🛠️ Areas of Expertise
 - **IT Operations & Troubleshooting**: Network diagnostics, help desk systems, incident management.
@@ -42,8 +40,17 @@ When I’m not studying, I’m outside exploring, reading, or dabbling in art an
 - **DevOps & Cloud**: Exploring CI/CD pipelines and containerized environments like Docker.
 - **Quantum Computing**: Diving into cutting-edge tech, because why not?
 
+: )
 
 
+
+
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KiNGxMiDAS) 
+
+
+<a href="[https://open.spotify.com/playlist/3ifpAaYdy3ajBhyQ2ZX60b](https://open.spotify.com/playlist/2j4BmwxVQ56QiGI2ox6yfO)">
+  <img align="left" alt="Midas' Spotify" width="22px" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" /> -->
 
 
 
