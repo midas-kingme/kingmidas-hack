@@ -13,7 +13,7 @@
 
 When I’m not studying, I’m outside exploring, reading, or dabbling in art and music. Feel free to reach out by shooting over a personal msg @`midasoden@pm.me` if you'd like to chat, get to know me, or discuss the possibility of building something dope! ツ
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 ## 🛠️ Areas of Expertise
 - **IT Operations & Troubleshooting**: Network diagnostics, help desk systems, incident management.
