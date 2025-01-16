@@ -1,7 +1,7 @@
-```md
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=4000&size=50&letterSpacing=7px&pause=1000&color=13A6F7&width=435&lines=%3CWassup%2C+World!%2F%3E)](https://git.io/typing-svg)
-```
-<!-- Permalink: https://readme-typing-svg.demolab.com/demo/?font=Ubuntu+Mono&weight=4000&size=50&letterSpacing=7px&color=13A6F7&center=true&vCenter=true&lines=%3CWassup%2C+World!%2F%3E--> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=45&letterSpacing=3px&pause=1000&color=0C6B9F7E&center=true&vCenter=true&width=435&lines=%3CWassup%2C+World!%2F%3E)](https://git.io/typing-svg)
+
+<!-- Permalink: https://readme-typing-svg.demolab.com/demo/?font=Ubuntu+Mono&size=45&letterSpacing=3px&color=0C6B9F7E&center=true&vCenter=true&lines=%3CWassup%2C+World!%2F%3E --> 
 
 [![My GitHub Banner](./goodies/assets/singularity.jpg)](https://www.linkedin.com/in/midasoden/) <!-- Replace w/ personal-site soon  -->
 [![Visits Badge](https://badges.pufler.dev/visits/KiNGxMiDAS/KiNGxMiDAS)](https://github.com/kingmidas-hack)
