@@ -1,5 +1,4 @@
 <br/>
-<br/>
 
 > _I enjoy programming, problem-solving, and process improvement! My main interests as of late center around distributed systems, systems integration, and Big Data! Feel free to shoot me a msg if you'd like to get to know me a bit better!_ 🤟🏾 🚀
 
